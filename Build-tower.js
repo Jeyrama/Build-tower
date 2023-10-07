@@ -30,3 +30,5 @@ function towerBuilder(n) {
     return spaces + '*'.repeat(k + k + 1) + spaces;
   });
 }
+
+// or
